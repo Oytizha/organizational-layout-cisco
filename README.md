@@ -1,5 +1,5 @@
 # Organizational Layout Project
-Welcome to the Organizational Layout Project! This project is designed to provide a comprehensive network infrastructure using Cisco Packet Tracer. The layout includes 6 routers, 4 switches, 3 servers, 1 cloud node, and a variety of devices interconnected through the RIP (Routing Information Protocol) protocol.
+Welcome to the Organizational Layout Project! This project is designed, with [@Fa](https://github.com/Fari-ha), to provide a comprehensive network infrastructure using Cisco Packet Tracer. The layout includes 6 routers, 4 switches, 3 servers, 1 cloud node, and a variety of devices interconnected through the RIP (Routing Information Protocol) protocol.
 
 # Project Structure
 The network is organized into distinct segments, each serving specific functions within the organization. Here's an overview of the main components:
